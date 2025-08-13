@@ -29,4 +29,5 @@ The prediction and analysis processes for each described system.
 To start the chatbot, navigate to the project's root directory in your terminal and execute the main application file:
 
 ## Bash
+### npm i
 ### node merlin.js
