@@ -1,0 +1,333 @@
+:root {
+  --glow-sens: 30;
+  --card-bg: linear-gradient(8deg, var(--dark) 75%, color-mix(in hsl, var(--dark), white 2.5%) 75.5%);
+  --blend: soft-light;
+  --glow-blend: plus-lighter;
+  --glow-color: 40deg 80% 80%;
+  --dark: #1a1a1a;
+  --fg: white;
+  --h: 240;
+}
+.light .card {
+  --card-bg: linear-gradient(
+    8deg,
+    color-mix(in hsl, hsl(200, 80%, 90%), var(--dark) 2.5%) 75%,
+    hsl(200, 80%, 90%) 75.5%
+  );
+  --blend: darken;
+  --glow-blend: luminosity;
+  --glow-color: 200deg 90% 95%;
+  --fg: black;
+  color: var(--fg);
+}
+
+body.light {
+  background: hsl(200, 50%, 85%); /* Changed from purple to sky blue */
+  background-image:
+    linear-gradient(
+      180deg,
+      hsl(200, 70%, 90%), /* Changed from purple to sky blue */
+      hsl(200, 87%, 21%) /* Changed from purple to sky blue */
+    );
+}
+
+body, html {
+  height: 100svh;
+  overflow: hidden;
+  background: hsl(200, 50%, 85%); /* Changed from purple to sky blue */
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  --pads: 20px;
+  --color-sens: calc(var(--glow-sens) + 20);
+  position: relative;
+  border-radius: 1.768em;
+  isolation: isolate;
+  transform: translate3d(0, 0, 0.01px);
+  display: grid;
+  border: 1px solid rgb(255 255 255 / 25%);
+  background: var(--card-bg);
+  background-repeat: no-repeat;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease-in-out;
+  overflow: hidden;
+}
+
+.card::before,
+.card::after,
+.card > .glow {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  transition: opacity 0.25s ease-out;
+  z-index: -1;
+}
+
+.card:not(:hover):not(.animating) {
+  &::before,
+  &::after,
+  & > .glow {
+    opacity: 0;
+    transition: opacity 0.75s ease-in-out;
+  }
+}
+
+.card::before {
+  border: 1px solid transparent;
+  background:
+    linear-gradient(var(--card-bg) 0 100%) padding-box,
+    linear-gradient(rgb(255 255 255 / 0%) 0% 100%) border-box,
+    radial-gradient(at 80% 55%, hsla(268,100%,76%,1) 0px, transparent 50%) border-box,
+    radial-gradient(at 69% 34%, hsla(349,100%,74%,1) 0px, transparent 50%) border-box,
+    radial-gradient(at 8% 6%, hsla(136,100%,78%,1) 0px, transparent 50%) border-box,
+    radial-gradient(at 41% 38%, hsla(192,100%,64%,1) 0px, transparent 50%) border-box,
+    radial-gradient(at 86% 85%, hsla(186,100%,74%,1) 0px, transparent 50%) border-box,
+    radial-gradient(at 82% 18%, hsla(52,100%,65%,1) 0px, transparent 50%) border-box,
+    radial-gradient(at 51% 4%, hsla(12,100%,72%,1) 0px, transparent 50%) border-box,
+    linear-gradient(#c299ff 0 100%) border-box;
+  opacity: calc((var(--pointer-d) - var(--color-sens)) / (100 - var(--color-sens)));
+  mask-image:
+    conic-gradient(
+      from var(--pointer-°) at center, black 25%, transparent 40%, transparent 60%, black 75%
+    );
+}
+
+.card::after {
+  border: 1px solid transparent;
+  background:
+    radial-gradient(at 80% 55%, hsla(268,100%,76%,1) 0px, transparent 50%) padding-box,
+    radial-gradient(at 69% 34%, hsla(349,100%,74%,1) 0px, transparent 50%) padding-box,
+    radial-gradient(at 8% 6%, hsla(136,100%,78%,1) 0px, transparent 50%) padding-box,
+    radial-gradient(at 41% 38%, hsla(192,100%,64%,1) 0px, transparent 50%) padding-box,
+    radial-gradient(at 86% 85%, hsla(186,100%,74%,1) 0px, transparent 50%) padding-box,
+    radial-gradient(at 82% 18%, hsla(52,100%,65%,1) 0px, transparent 50%) padding-box,
+    radial-gradient(at 51% 4%, hsla(12,100%,72%,1) 0px, transparent 50%) padding-box,
+    linear-gradient(#c299ff 0 100%) padding-box;
+  mask-image:
+    linear-gradient( to bottom, black, black ),
+    radial-gradient( ellipse at 50% 50%, black 40%, transparent 65% ),
+    radial-gradient( ellipse at 66% 66%, black 5%, transparent 40% ),
+    radial-gradient( ellipse at 33% 33%, black 5%, transparent 40% ),
+    radial-gradient( ellipse at 66% 33%, black 5%, transparent 40% ),
+    radial-gradient( ellipse at 33% 66%, black 5%, transparent 40% ),
+    conic-gradient( from var(--pointer-°) at center, transparent 5%, black 15%, black 85%, transparent 95% );
+  mask-composite: subtract,add,add,add,add,add;
+  opacity: calc((var(--pointer-d) - var(--color-sens)) / (100 - var(--color-sens)));
+  mix-blend-mode: var(--blend);
+}
+
+.card > .glow {
+  --outset: var(--pads);
+  inset: calc(var(--outset) * -1);
+  pointer-events: none;
+  z-index: 1;
+  mask-image:
+    conic-gradient(
+      from var(--pointer-°) at center, black 2.5%, transparent 10%, transparent 90%, black 97.5%
+    );
+  opacity: calc((var(--pointer-d) - var(--glow-sens)) / (100 - var(--glow-sens)));
+  mix-blend-mode: var(--glow-blend);
+}
+
+.card > .glow::before {
+  content: "";
+  position: absolute;
+  inset: var(--outset);
+  border-radius: inherit;
+  box-shadow:
+    inset 0 0 0 1px hsl( var(--glow-color) / 100%),
+    inset 0 0 2px 2px hsl( var(--glow-color) / 90%),
+    inset 0 0 5px 1px hsl( var(--glow-color) / 75%),
+    inset 0 0 8px 1px hsl( var(--glow-color) / 66%),
+    inset 0 0 15px 0 hsl( var(--glow-color) / 50%),
+    inset 0 0 25px 2px hsl( var(--glow-color) / 30%),
+    inset 0 0 50px 2px hsl( var(--glow-color) / 10%),
+
+    0 0 2px 2px hsl( var(--glow-color) / 90%),
+    0 0 5px 1px hsl( var(--glow-color) / 75%),
+    0 0 8px 1px hsl( var(--glow-color) / 66%),
+    0 0 15px 0 hsl( var(--glow-color) / 50%),
+    0 0 25px 2px hsl( var(--glow-color) / 30%),
+    0 0 50px 2px hsl( var(--glow-color) / 10%);
+}
+
+.card .inner {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  container-type: inline-size;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+  padding: 1rem;
+}
+
+
+/* Main content area styling */
+main {
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  max-width: 800px;
+  padding: 20px;
+}
+
+.main-content {
+  background-color: #333;
+  color: white;
+  padding: 30px;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+}
+
+
+.chatbot-container {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: #004d99; /* Darker color for the chatbot circle */
+  color: white;
+  display: flex;    
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  z-index: 1000;
+
+}
+
+.chatbot-container.expanded {
+  width: 350px;
+  height: 500px;
+  border-radius: 0.75em;
+  background-color: #2d3748;
+  padding: 0;
+}
+
+.chatbot-container .chat-icon {
+  font-size: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  line-height: 1;
+  margin: 0;
+  padding: 0;
+}
+
+.chatbot-container.expanded .chat-icon {
+  display: none;
+}
+
+.chatbot-content {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+}
+
+.chat-column-content {
+  display: none;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  padding-top: 0;
+}
+
+.chatbot-container.expanded .chat-column-content {
+  display: flex;
+}
+
+.chat-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #4a5468;
+  margin-bottom: 0.5rem;
+  color: black;
+}
+
+.chat-messages {
+  flex-grow: 1;
+  overflow-y: auto;
+  padding: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  scroll-behavior: smooth;
+  background-color: #1a202c;
+  border-radius: 0.5rem;
+}
+
+.message-bubble {
+  max-width: 80%;
+  padding: 0.75rem;
+  border-radius: 0.5rem;
+  word-wrap: break-word;
+}
+
+.user-message {
+  align-self: flex-end;
+  background-color: #4299e1;
+  color: white;
+}
+
+.bot-message {
+  align-self: flex-start;
+  background-color: #a0aec0;
+  color: #1a202c;
+}
+
+.chat-input-area {
+  display: flex;
+  margin-top: 1rem;
+  gap: 0.5rem;
+}
+
+.chat-input {
+  flex-grow: 1;
+  padding: 0.75rem;
+  border-radius: 0.5rem;
+  border: 1px solid #4a5568;
+  background-color: #2d3748;
+  color: white;
+  outline: none;
+}
+
+.chat-send-btn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 0.75rem 1rem;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  border: none;
+  transition: background-color 0.2s;
+}
+
+.chat-send-btn:hover {
+  background-color: #45a049;
+}
+
+.loading-indicator {
+  align-self: flex-start;
+  background-color: #a0aec0;
+  color: #1a202c;
+  padding: 0.75rem;
+  border-radius: 0.5rem;
+  max-width: 80%;
+}

